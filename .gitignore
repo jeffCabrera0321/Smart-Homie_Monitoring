@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# build files
+/x64
+/Smart-Ho*
+/.vs
+
+#libraries
+/libs
